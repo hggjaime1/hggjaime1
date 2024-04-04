@@ -1,0 +1,190 @@
+---
+title: "No Convencionales"
+author: "Ricardo R. Palma"
+date: "`r Sys.Date()`"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Diplomatura Universitaria
+
+**GestiÃ³n y TecnologÃ­aspara el desarrollo Convencional y No Convencional**
+
+
+
+
+
+## TCO (Total cost of ownership).
+
+El costo total de propiedad o costo total de propiedad (proveniente del tÃ©rmino anglosajÃ³n total cost of ownership o TCO), es un mÃ©todo de cÃ¡lculo diseÃ±ado para ayudar a los usuarios y a los gestores empresariales a determinar los costes directos e indirectos, asÃ­ como los beneficios, relacionados con un producto o sistema. 
+
+## Uso TCO
+Se usa especÃ­ficamente para la compra de equipos o programas informÃ¡ticos, y de modo creciente para el cÃ¡lculo econÃ³mico de soluciones energÃ©ticas sostenibles.
+
+## Resumen 
+
+El CTO ofrece un resumen final que refleja no sÃ³lo el coste de la compra sino aspectos del uso y mantenimiento. Esto incluye formaciÃ³n para el personal de soporte y para usuarios, el coste de operaciÃ³n, y de los equipos o trabajos de consultorÃ­a necesarios, etc.
+
+## AnÃ¡lisis
+
+El anÃ¡lisis de los costos asociados con la implantaciÃ³n de una tecnologÃ­a puede incluir los siguientes elementos, como parte del TCO:
+
+* InstalaciÃ³n, configuraciÃ³n, garantÃ­as y licencias de computadores y programas:
+* Servidores con su correspondiente sistema operativo.
+* Estaciones de escritorio con su correspondiente sistema operativo.
+* ImplantaciÃ³n y configuraciÃ³n de la tecnologÃ­a en servidores y estaciones de trabajo.
+
+## AnÃ¡lisis (cont. 1)
+
+* Dispositivos y software para establecer comunicaciÃ³n por redes.
+* Gobierno de la tecnologÃ­a:
+* VerificaciÃ³n de la viabilidad de las licencias respecto del uso requerido.
+* Seguimiento a las garantÃ­as y al cumplimiento de las licencias.
+
+## Costos (cont. 1)
+
+* Periodicidad de las actualizaciones.
+* MigraciÃ³n de datos.
+* IntegraciÃ³n con otros sistemas de informaciÃ³n.
+    * Personal:
+    * Usuarios.
+    * Administradores.
+    *Soporte tÃ©cnico.
+
+## Costos (cont. 2)
+
+* Seguridad informÃ¡tica.
+* Control de riesgos, prevenciÃ³n de riesgos y reacciÃ³n ante incidentes:
+* RealizaciÃ³n de pruebas: funcionales, de estrÃ©s, de carga, de caÃ­das abruptas, de concurrencia de usuarios.
+
+## Costos (cont. 2B)
+
+* Seguridad informÃ¡tica.
+* IdentificaciÃ³n de amenazas
+* IdentificaciÃ³n de vulnerabilidades
+* DiseÃ±o del plan de acciÃ³n.
+* AuditorÃ­as periÃ³dicas (internas y externas).
+Seguros.
+
+## Costos (cont. 3)
+
+* Cifrado de datos almacenados.
+* Cifrado de las transmisiones.
+* Copias de seguridad (backups):
+* Periodicidad de realizaciÃ³n.
+* Almacenamiento de copias (in situ o remotas).
+* Cifrado de las copias de seguridad.
+* InformÃ¡tica forense:
+* InvestigaciÃ³n del incidente y determinaciÃ³n del procedimiento de reacciÃ³n.
+
+## Costos (cont. 4)
+
+* AnÃ¡lisis del compromiso de las copias de seguridad.
+* RecuperaciÃ³n de la operaciÃ³n a un estado seguro sin datos comprometidos.
+* Periodicidad de las actualizaciones.
+* MigraciÃ³n de datos.
+
+## Costos de OperaciÃ³n:
+
+* Infraestructura fÃ­sica y costo del suelo.
+* Electricidad para los equipos.
+* Equipos complementarios (UPS, refrigeraciÃ³n, filtros de aire, deshumidificadores, etc.)
+* Seguridad de las instalaciones:
+* Personal de seguridad.
+* Control de acceso a los equipos computacionales.
+
+## OperaciÃ³n (cont. 1)
+
+* Equipos contra incendio.
+* Equipos para suministro de electricidad en caso de cortes en el fluido normal.
+* CaÃ­das y fallas del sistema:
+* Costos asociados al tiempo fuera del aire.
+* Costos de recuperaciÃ³n y estabilizaciÃ³n.
+* DisminuciÃ³n del desempeÃ±o (pÃ©rdidas asociadas con demoras en los tiempos de respuesta).
+
+## OperaciÃ³n (cont. 2)
+
+* OperaciÃ³n bajo fallas inadvertidas (costos asociados a este riesgo).
+* PÃ©rdida de reputaciÃ³n.
+* CapacitaciÃ³n del personal (tomando en cuenta el entrenamiento inicial y las actualizaciones periÃ³dicas)
+* CapacitaciÃ³n a usuarios.
+* CapacitaciÃ³n a administradores.
+* CapacitaciÃ³n a personal de soporte tÃ©cnico (niveles 1 a 5).
+
+## OperaciÃ³n (cont. 3)
+
+* CapacitaciÃ³n a personal de seguridad.
+* Costos a largo plazo.
+* Reemplazo o desmantelamiento de la tecnologÃ­a.
+* Costos de escalabilidad por:
+* Crecimiento de la planta de usuarios.
+* Incremento en la cantidad de datos almacenados.
+* Cambio a alcance internacional (lenguajes, zonas horarias, divisas internacionales, etc.).
+
+## Gartner 
+
+Ver <https://www.gartner.es/es/articulos/las-10-principales-tendencias-tecnologicas-estrategicas-de-gartner-para-2024>
+
+El anÃ¡lisis del coste total de propiedad fue creado por el Grupo Gartner en 1987â€‹ y desde entonces se ha desarrollado en diferentes metodologÃ­as y herramientas de software. Por ejemplo, la compra de un ordenador puede incluir la compra en sÃ­ misma, reparaciones, mantenimiento, actualizaciones, servicios y soporte, redes, seguridad, formaciÃ³n de usuarios y costes de licencias.
+
+## Gartner
+
+El concepto de CTP es muy usado en la industria automovilÃ­stica, energÃ­a y en especial en gas/petrÃ³leo. En este contexto, el CTO implica el costo extendido a toda la vida util del producto. Desde se que consume algo de la naturaleza hasta que se recicla (o pasiva para el relleno sanitario) e incluye la desactivaciÃ³n de la infraestructura construida para producir el bien o servicio.
+
+
+
+
+## Las tecnologÃ­as en la nube
+
+SegÃºn lo que vimos en el informe de **Gartner** las 10 tecnologÃ­as estratÃ©gicas son:
+
+1. TecnologÃ­a sostenible
+2. IngenierÃ­a de plataformas
+3. Desarrollo asistido por IA
+4. Plataformas industriales en la nube
+5. Aplicaciones inteligentes
+6. IA generativa democratizada
+7. Fuerza de trabajo conectada aumentada
+8. Clientes mÃ¡quina
+9. GestiÃ³n de la confianza, el riesgo y la seguridad de la IA (AI TRiSM)
+10. GestiÃ³n continua de la exposiciÃ³n a amenazas (CTEM)
+
+
+
+## Â¿Que ocurrirÃ¡ con la PC?
+
+## Â¿CuÃ¡l es el sistema operativo mÃ¡s utilizado en el mundo?
+## CÃ³mo puedo abordar el enorme desafÃ­o de explotar el BIG-Data
+
+## Â¿QuÃ© es Kaggle y CKAN? 
+* Â¿CÃ³mo estas tecnologÃ­as estÃ¡n aportando a la transparencia gubernamental y empresarial?
+
+
+
+
+## R Markdown
+
+This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
